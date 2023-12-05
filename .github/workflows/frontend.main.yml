@@ -1,5 +1,5 @@
 name: deploy_frontend
-# Deploys when push is made from fronted folder
+# Deploys when push is made from fronted folder.
 
 on:
     push:
